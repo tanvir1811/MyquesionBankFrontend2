@@ -35,9 +35,9 @@ body {
     font-weight: bold;
     font-size: 1.2rem;
     display: block;
-    margin-left: 44%;
+    margin-left: 35%;
     margin-top: 40px;
-    width: 160px;
+    width: 300px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
@@ -52,9 +52,9 @@ body {
     font-weight: bold;
     font-size: 1.2rem;
     display: block;
-    margin-left: 44%;
+    margin-left: 35%;
     margin-top: 40px;
-    width: 160px;
+    width: 300px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
